@@ -25,7 +25,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
 
-    git clone https://github.com/yourusername/binance-trade-analyzer.git
+    git clone https://github.com/DevAmarnadh/Binance-Trade-Analyzer.git
 
 2. Navigate to the project directory:
 
